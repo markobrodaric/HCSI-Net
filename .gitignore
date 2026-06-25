@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local/generated data
+SelfBlendedImages/
+
+# Model weights - publish via GitHub Releases
+weights/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Environments and secrets
+.venv/
+venv/
+env/
+uniVenv/
+.env
+.env.*
