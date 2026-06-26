@@ -221,13 +221,17 @@ Please refer to the paper for the full experimental protocol, cross-dataset eval
 If you use this code or the pretrained weights in your research, please cite:
 
 ```bibtex
-@inproceedings{IWBF2026,
-  title = {HCSI-Net: Hierarchical Cross-Stream Interaction for Generalizable Deepfake Detection},
-  author = {Marko Brodarič and Marija Ivanovska and Deepak Kumar Jain and Peter Peer and Vitomir Štruc},
-  booktitle = {Proceedings of the International Workshop on Biometrics and Forensics (IWBF)},
-  pages = {1--6},
-  year = {2026}
-}
+@INPROCEEDINGS{brodaric2026hcsinet,
+  author={Brodarič, Marko and Ivanovska, Marija and Jain, Deepak Kumar and Peer, Peter and Štruc, Vitomir},
+  booktitle={2026 14th International Workshop on Biometrics and Forensics (IWBF)}, 
+  title={HCSI-Net: Hierarchical Cross-Stream Interaction for Generalizable Deepfake Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Timing;Modeling;Deepfakes;Equations;Streams;Convolutional neural networks;Detectors;Printing;Signal detection;Forgery;Deepfake detection;cross-dataset generalization;two-stream networks;CNN-Transformer fusion},
+  doi={10.1109/IWBF68042.2026.11558171}}
+
 ```
 
 ---
